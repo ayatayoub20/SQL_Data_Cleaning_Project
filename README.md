@@ -16,7 +16,7 @@ This project focuses on cleaning and preparing a dataset on global layoffs durin
 5. Removed unnecessary columns and rows that were not useful for analysis.
 
 ## SQL Code:
-The full SQL code used in this project is available [here](link-to-SQL-file).
+The full SQL code used in this project is available [here](https://github.com/ayatayoub20/SQL_Data_Cleaning_Project/blob/master/world_layoffs_data_cleaning.sql).
 
 ## Dataset:
 The original dataset is available on Kaggle at [this link](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
